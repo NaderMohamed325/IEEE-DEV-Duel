@@ -1,0 +1,9 @@
+Arduino Uno
+flame  Sensor
+motor driver
+dc motor & wheel
+servo motor
+relay
+battery
+switch
+
